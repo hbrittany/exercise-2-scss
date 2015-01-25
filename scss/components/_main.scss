@@ -1,5 +1,26 @@
 body {
+	color: $primary;
 	background-color: $background;
 	font-family: $sans;
+	padding: 2rem 5rem;
 }
 
+
+h1 {
+	color: $brand;
+	font-weight: 900;
+}
+
+ul {
+	color: $brand;
+}
+
+a {
+	color: $links;
+	text-decoration: none;
+}
+
+a:hover {
+	color: $hover;
+	border-bottom: $linkhov;
+}

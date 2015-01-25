@@ -1,0 +1,25 @@
+/* line 1, /Users/Brittany/Documents/AC3.5/Web Development/class-lessons/exercise-2-scss/scss/components/main */
+body {
+  color: #41433f;
+  background-color: #f5f7eb;
+  font-family: Muli, Helvetica, sans-serif;
+  padding: 2rem 5rem; }
+
+/* line 9, /Users/Brittany/Documents/AC3.5/Web Development/class-lessons/exercise-2-scss/scss/components/main */
+h1 {
+  color: #255700;
+  font-weight: 900; }
+
+/* line 14, /Users/Brittany/Documents/AC3.5/Web Development/class-lessons/exercise-2-scss/scss/components/main */
+ul {
+  color: #255700; }
+
+/* line 18, /Users/Brittany/Documents/AC3.5/Web Development/class-lessons/exercise-2-scss/scss/components/main */
+a {
+  color: #5a743e;
+  text-decoration: none; }
+
+/* line 23, /Users/Brittany/Documents/AC3.5/Web Development/class-lessons/exercise-2-scss/scss/components/main */
+a:hover {
+  color: #747474;
+  border-bottom: solid 2px #747474; }
